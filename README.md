@@ -1,4 +1,6 @@
 Procesamiento del Habla – Trabajos Prácticos
+
+
 Este repositorio contiene los trabajos prácticos realizados en el marco de la materia Procesamiento del Habla, correspondiente a la carrera de Ciencia de datos e Inteligencia Artificial.
 
 Contenido
